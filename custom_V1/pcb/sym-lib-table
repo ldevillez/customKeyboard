@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name ErgoDOX-rescue)(type Legacy)(uri ${KIPRJMOD}/ErgoDOX-rescue.lib)(options "")(descr ""))
-  (lib (name Interface_USB2)(type Legacy)(uri /home/westornd/Documents/Projet/custom_Keyboard/custom_V1/pcb/Interface_USB/Interface_USB2.lib)(options "")(descr ""))
-  (lib (name USB4085-GF-A_REVA)(type Legacy)(uri /home/westornd/Documents/Projet/custom_Keyboard/custom_V1/pcb/USB4085-GF-A_REVA/USB4085-GF-A_REVA.lib)(options "")(descr ""))
-)

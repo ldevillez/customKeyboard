@@ -1,4 +1,12 @@
+# V1
+The V1 is based on the ergodox but with sone nice features
+* USB C
+* USB hub (2.0)
+* Each half are independent
+##
 
+## subversions
+* The "logic" version of the pcb is just the upper-part of it with all the logic(teensy, hub,leds) to have a smaller pcb. It would have been great to have it reduce under 10 mm. The all version is also there for the switch.
 
 
 ## Shopping list
@@ -105,6 +113,13 @@
       <th>https://www.digikey.be/product-detail/fr/on-semiconductor/MMSD4148T1G/MMSD4148T1GOSCT-ND/1121611</th>
     </tr>
     <tr>
+      <th>100</th>
+      <th>Diodes </th>
+      <th>Alt to smd ones</th>
+      <th>2.06</th>
+      <th>https://www.digikey.be/product-detail/fr/on-semiconductor/1N4148/1N4148FS-ND/458603</th>
+    </tr>
+    <tr>
       <th>88</th>
       <th>Cherry MX brow</th>
       <th></th>
@@ -118,6 +133,12 @@
       <th>9.10</th>
       <th>https://www.digikey.be/product-detail/fr/cui-devices/CBLT-UC-UC-1WT/102-5955-ND/9838607</th>
     </tr>
+    <tr>
+    <th>Total</th>
+    <th></th>
+    <th></th>
+    <th> 90.69 </th>
+    <th></th>
   </tbody>
 </table>
 
