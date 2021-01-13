@@ -121,7 +121,7 @@ The V1 is based on the ergodox but with sone nice features
     </tr>
     <tr>
       <th>88</th>
-      <th>Cherry MX brow</th>
+      <th>Cherry MX brown</th>
       <th></th>
       <th>30.92</th>
       <th>https://fr.aliexpress.com/item/1005001681627152.html?spm=a2g0o.productlist.0.0.4b9e49a1pXCVAw&algo_pvid=aae6ed30-4209-492e-a736-7e098fa6cffb&algo_expid=aae6ed30-4209-492e-a736-7e098fa6cffb-18&btsid=0bb0622a16102183873605978e7444&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_</th>
@@ -145,10 +145,3 @@ The V1 is based on the ergodox but with sone nice features
 ### Switch
 I don't really know which switch fit me the best so i prefer buy cheap one for the prototype and remplace them later with **real** cherry mx. For example https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NW/20180?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4AbACxUgC6Avg4QExkgCyAGmAIIwBRMADkA6vQZA
 
-Led_verte_SMD https://be.farnell.com/fr-BE/dialight/599-0281-007f/led-vert-340mcd-525nm-1206/dp/3548452
-Led_rouge_SMD https://be.farnell.com/fr-BE/dialight/599-0210-007f/led-rouge-29mcd-633nm-1206/dp/3548447
-Led_verte_TH https://be.farnell.com/fr-BE/broadcom-limited/hlmp-1521/led-3mm-vert/dp/1003375
-Level shifter https://be.farnell.com/fr-BE/nexperia/74hct14d/circuit-logique-74hct-cms/dp/1201304?st=74hct14
-Crystal https://be.farnell.com/fr-BE/iqd-frequency-products/lfxtal003215/quartz-12mhz/dp/9712950
-USB 2.0 https://be.farnell.com/fr-BE/wurth-elektronik/61400416021/embase-usb-2-0-type-a-traversant/dp/1642033?st=usb
-USBLC6-2 
