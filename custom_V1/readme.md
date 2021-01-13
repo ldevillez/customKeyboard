@@ -26,7 +26,14 @@ The V1 is based on the ergodox but with sone nice features
       <th>Teensy LC</th>
       <th> </th>
       <th>28.44</th>
-      <th>https://www.digikey.be/product-detail/fr/adafruit-industries-llc/2419/1528-2254-ND/7241499</th>
+      <th>https://www.digikey.be/product-detail/fr/sparkfun-electronics/DEV-13305/1568-1233-ND/5721428</th>
+    </tr>
+    <tr>
+      <th>4</th>
+      <th>Header 14*1 2.54mm</th>
+      <th>For teensy</th>
+      <th>2.4</th>
+      <th>https://www.digikey.be/product-detail/en/w%C3%BCrth-elektronik/61301411121/732-5325-ND/4846849</th>
     </tr>
     <tr>
       <th>10</th>
