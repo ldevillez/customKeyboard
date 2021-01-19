@@ -1001,7 +1001,7 @@ Wire Wire Line
 Wire Wire Line
 	2800 9850 3500 9850
 $Comp
-L Interface_USB2:FE1.1s U4
+L ErgoDOX-rescue:FE1.1s-Interface_USB2 U4
 U 1 1 5FF3D723
 P 10950 2250
 F 0 "U4" H 10700 1200 50  0000 C CNN
@@ -2208,7 +2208,7 @@ SCK_IN
 Text GLabel 4900 1800 0    50   Input ~ 0
 MOSI_IN
 $Comp
-L teensy:Teensy-LC U5
+L ErgoDOX-rescue:Teensy-LC-teensy U5
 U 1 1 5FF9CC95
 P 6050 2650
 F 0 "U5" H 6075 3993 60  0000 C CNN

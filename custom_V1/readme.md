@@ -141,6 +141,13 @@ The V1 is based on the ergodox but with sone nice features
       <th>https://www.digikey.be/product-detail/fr/cui-devices/CBLT-UC-UC-1WT/102-5955-ND/9838607</th>
     </tr>
     <tr>
+      <th>2</th>
+      <th>IC Hub usb 2.0 </th>
+      <th></th>
+      <th>3</th>
+      <th>https://fr.aliexpress.com/item/33046559993.html?spm=a2g0o.cart.0.0.79213c00v1W7BP&mp=1</th>
+    </tr>
+    <tr>
     <th>Total</th>
     <th></th>
     <th></th>
