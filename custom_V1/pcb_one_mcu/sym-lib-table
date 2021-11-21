@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name teensy)(type Legacy)(uri /home/westornd/Documents/projets/customKeyboard/custom_V1/pcb_one_mcu/teensy.lib)(options "")(descr ""))
+)

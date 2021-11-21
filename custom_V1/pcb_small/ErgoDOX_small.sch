@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:ErgoDOX-cache
 EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
@@ -642,8 +641,6 @@ Wire Wire Line
 Connection ~ 11750 3200
 NoConn ~ 11650 2250
 NoConn ~ 11650 2350
-NoConn ~ 10250 1350
-NoConn ~ 10250 1950
 $Comp
 L Device:C C1
 U 1 1 601E032D
@@ -1481,7 +1478,7 @@ F 3 "" H 10050 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10250 1850 10050 1850
+	10250 1850 10100 1850
 NoConn ~ 11650 2650
 $Comp
 L ErgoDOX-rescue:FE1.1s-Interface_USB2 U4
@@ -1670,6 +1667,26 @@ F 1 "+5V" H 3900 2500 50  0000 C CNN
 F 2 "" H 3900 2350 50  0001 C CNN
 F 3 "" H 3900 2350 50  0001 C CNN
 	1    3900 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10250 1950 10100 1950
+Wire Wire Line
+	10100 1950 10100 1850
+Connection ~ 10100 1850
+Wire Wire Line
+	10100 1850 10050 1850
+Wire Wire Line
+	10150 1350 10250 1350
+$Comp
+L power:+5V #PWR?
+U 1 1 60E773AA
+P 10150 1350
+F 0 "#PWR?" H 10150 1200 50  0001 C CNN
+F 1 "+5V" H 10150 1500 50  0000 C CNN
+F 2 "" H 10150 1350 50  0001 C CNN
+F 3 "" H 10150 1350 50  0001 C CNN
+	1    10150 1350
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
